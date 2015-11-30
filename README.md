@@ -1,6 +1,15 @@
 # roots-sage-script
 This is an automation bash shell script for the creation of a WordPress instance with the Bedrock WordPress Boilerplate and Sage as its default theme.
 
+# Requirements
+- Unix based Operating System.
+- Git.
+- Composer.
+- WP-CLI & WP-CLI-Dotenv.
+- MySQL.
+- Node.js & NPM.
+- NPM Packages: Bower, Gulp, and JSON.
+
 # Planned Features
 - Creating a Yeoman Generator to separate the possible commands to be placed into the generator and others that cannot be put into the genrator.
 - Adding a MAMP and MAMP Pro automatic virtual host creation line.
